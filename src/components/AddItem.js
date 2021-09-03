@@ -15,7 +15,7 @@ function AddItem() {
                     <h1 className = 'additem-h1'>Add Item</h1>
                 </div>
                 <ProductForm></ProductForm>
-                <Footer></Footer>
+                
             </div>
         </React.Fragment>
     )
