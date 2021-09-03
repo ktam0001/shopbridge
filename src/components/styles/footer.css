@@ -6,9 +6,9 @@
 
 .cufooter-main-div{
     background-color: #1b1c1d;
-    position: relative;
-    bottom: 0%;
-    height: 50vh;
+    position: absolute;
+    /* bottom : -1vh; */
+    height: auto;
     width: 100vw;
 }
 .cufooter-separator{
@@ -32,8 +32,8 @@
     color : rgba(168, 145, 145, 0.6);
     display: flex;
     justify-content: center;
-    padding-top : 15px;
-    /* position : absolute;
+    padding-top : 15px; 
+    /*position : absolute;
     top : 2vh;
     left : 50%;
     margin-left: -8%; */

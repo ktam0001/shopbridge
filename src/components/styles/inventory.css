@@ -1,0 +1,9 @@
+.inventory-main-div{
+    position: relative;
+    margin-top: 4vh;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    margin-bottom: 4vh;
+    background-color: rgb(71, 63, 63, 0.4);
+    border-radius: 5px;
+}

@@ -8,7 +8,13 @@ import './styles/footer.css';
 function Footer() {
     return (
         <div className = 'cufooter-main-div'>
-            
+         <h1 className = 'cufooter-h1'>Contact Us</h1>
+                    <div className = 'cufooter-separator'>
+                        <hr size="8" color="grey" width = '70%'></hr>
+                    </div>
+                    <div className = 'cufooter-contacts'>
+                        
+                    </div>
         </div>
     )
 }

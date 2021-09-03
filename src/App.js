@@ -3,11 +3,13 @@
 import AddItem from "./components/AddItem";
 import React from 'react';
 import { BrowserRouter, Link, Route, NavLink, Switch } from 'react-router-dom';
+import Inventory from "./components/Inventory";
 function App() {
   return (
     <React.Fragment>
       <Switch>
-        <Route exact path = '/' component = {AddItem}/>
+        <Route exact path = '/' component = {Inventory}/>
+        <Route exact path = '/additem' component = {AddItem} />
       </Switch>
     </React.Fragment>
   );

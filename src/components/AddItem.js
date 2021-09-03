@@ -9,7 +9,7 @@ import './styles/additem.css';
 function AddItem() {
     return (
         <React.Fragment>
-            <div className = 'contact-maindiv'>
+            <div className = ''>
                 <Header prop = 'AddItem'></Header>
                 <div className = 'additem-h1-div'>
                     <h1 className = 'additem-h1'>Add Item</h1>
