@@ -20,5 +20,5 @@ function AddItem() {
         </React.Fragment>
     )
 }
-
+//<Footer></Footer>
 export default AddItem;
