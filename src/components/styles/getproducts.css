@@ -1,0 +1,14 @@
+.{
+    height: 0;
+    width: 0;
+    box-sizing: border-box;
+}
+.getproduct-delete{
+    float: right;
+    padding : 0.5vh;
+    margin : 1vh;
+}
+
+.getproduct-img{
+    padding : 10px;
+}
